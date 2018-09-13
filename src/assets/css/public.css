@@ -1,0 +1,20 @@
+.filterBar{
+    text-align: left;
+    padding:10px
+    /* background: #ff0 */
+}
+.subCon{
+    padding:30px;
+}
+.tableList{
+    width:100%;
+}
+.tableList tr{
+    border-bottom: 1px solid #ccc;
+}
+.tableList th,.tableList td{
+    height:36px; line-height: 36px;
+}
+.realCon{
+    overflow: auto;
+}
